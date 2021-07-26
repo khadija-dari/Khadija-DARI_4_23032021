@@ -653,7 +653,7 @@ label,
 a {
   font-family: "helvetica";
   font-weight: 400;
-  color: #575757 !important;
+  color: #000 !important;
 }
 
 .container {
@@ -738,7 +738,7 @@ h4 {
 }
 
 .white {
-  color: #ffffff !important;
+  color: #000 !important;
 }
 
 img.img-responsive.portfolio-thumb {
@@ -781,12 +781,14 @@ img.img-responsive.portfolio-thumb {
 }
 
 .tc-white {
-  color: #f3976c !important;
+  color: #fff !important;
 }
-
+/* .container bloc-lg h1 p {
+  color: #000 !important;
+} */
 .btn-atomic-tangerine {
   background: #f3976c;
-  color: #ffffff !important;
+  color: #000 !important;
 }
 
 .btn-atomic-tangerine:hover {
